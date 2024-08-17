@@ -1,4 +1,8 @@
-# TOOLS-X
+
+###CARA INSTALL SCRIPT###
+
+download apk termux di [sini](https://apkcombo.com/id/termux/com.termux/download/phone-0.119.0-beta.1-apk) jika sudah terpasang kemudian buka dan ketikan perintah di bawah ini
+
 ```
 pkg update && pkg upgrade -y
 pkg install python -y
@@ -14,4 +18,29 @@ pip install fake-email
 pip install rich
 pip install gtts
 pip install pyshorteners
+pkg install unzip
+git clone https://github.com/PahrulXD/TOOLS-X
 ```
+oke sekarang script sudah terinstall
+
+###CARA MENJALANKAN SCRIPT###
+
+sekarang karena script sudah terinstall tinggal kita jalankan, ketik perintah di bawah ini
+
+```
+cd TOOLS-X
+unzip TOOLS-X.zip
+python TOOLS-X.py
+
+```
+
+
+
+
+
+
+
+
+
+
+
