@@ -1,5 +1,4 @@
-
-###CARA INSTALL SCRIPT###
+### CARA INSTALL SCRIPT ###
 
 download apk termux di [sini](https://apkcombo.com/id/termux/com.termux/download/phone-0.119.0-beta.1-apk) jika sudah terpasang kemudian buka dan ketikan perintah di bawah ini
 
@@ -23,7 +22,7 @@ git clone https://github.com/PahrulXD/TOOLS-X
 ```
 oke sekarang script sudah terinstall
 
-###CARA MENJALANKAN SCRIPT###
+### CARA MENJALANKAN SCRIPT ###
 
 sekarang karena script sudah terinstall tinggal kita jalankan, ketik perintah di bawah ini
 
@@ -33,9 +32,6 @@ unzip TOOLS-X.zip
 python TOOLS-X.py
 
 ```
-
-
-
 
 
 
